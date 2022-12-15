@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+cancer_rios@hotmail.com
 import smtplib
 import threading
 from optparse import *
